@@ -1,6 +1,6 @@
  Livro de receitas
 
-Óla bem vindo ao meu lviro de receitas
+Óla bem vindo ao meu livro de receitas
 
 
 
